@@ -1,6 +1,6 @@
 ### Hiya!
 
-I'm from Charleston, SC, USA, and I work on and write about projects ranging from web accessibility to JavaScript to [TypeScript](https://www.typescriptlang.org) to [React](https://reactjs.org) to [Haskell](https://www.haskell.org) to Bash to [Nix](https://nixos.org) and beyond.
+I'm from Charleston, SC, USA, and I work on, write about, and mentor folx on topics like JavaScript, React, NodeJS, [TypeScript](https://www.typescriptlang.org), publishing NPM packages / maintaining open source software, functional programming, web accessibility, [Haskell](https://www.haskell.org), Bash, [Nix](https://nixos.org), and more.
 
 ### What am I up to?
 
