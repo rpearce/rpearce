@@ -6,7 +6,7 @@
 
 ### What am I up to?
 
-* 🔎 working on updates to https://github.com/rpearce/image-zoom
+* 🔎 working on updates to [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
 * λ working on [the free Ramda Guide book](https://ramda.guide) (subscribe there for updates!)
 * 📇 sometimes updating [bashcards](https://github.com/rpearce/bashcards/) with new flashcard content
 
