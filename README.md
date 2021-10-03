@@ -6,8 +6,9 @@
 
 ### What am I up to?
 
+* 🔎 working on updates to https://github.com/rpearce/image-zoom
 * λ working on [the free Ramda Guide book](https://ramda.guide) (subscribe there for updates!)
-* 📇 regularly updating [bashcards](https://github.com/rpearce/bashcards/) with new flashcard content
+* 📇 sometimes updating [bashcards](https://github.com/rpearce/bashcards/) with new flashcard content
 
 ### What have I done recently?
 
