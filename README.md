@@ -6,12 +6,10 @@
 
 ### What am I up to?
 
+* 🌱 learning Go!
 * 🔎 working on updates to [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
-* λ working on [the free Ramda Guide book](https://ramda.guide) (subscribe there for updates!)
-* 📇 sometimes updating [bashcards](https://github.com/rpearce/bashcards/) with new flashcard content
 
 ### What have I done recently?
 
-* :shipit: released [slugger](https://hackage.haskell.org/package/slugger), "Clean URI slugs for Haskell", on Hackage
-* 🚢 provided some major updates to the [hakyll-nix-template](https://github.com/rpearce/hakyll-nix-template/)
-* ⚙️ updated [my dotfiles]((https://hackage.haskell.org/package/slugger)) to completely manage my macOS system through [nix-darwin](https://github.com/LnL7/nix-darwin)
+* 🔎 published the long-awaited `v5` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
+* λ paused working on [the free Ramda Guide book](https://ramda.guide) because there aren't enough hours in the day
