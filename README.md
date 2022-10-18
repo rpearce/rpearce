@@ -7,9 +7,8 @@
 ### What am I up to?
 
 * 🌱 learning Go!
-* 🔎 working on updates to [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
 
 ### What have I done recently?
 
-* 🔎 published the long-awaited `v5` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
-* λ paused working on [the free Ramda Guide book](https://ramda.guide) because there aren't enough hours in the day
+* 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (part of my Go learning)
+* 🔎 published `v5.1.1` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom) — that project is in a pretty good place
