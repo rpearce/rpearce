@@ -10,5 +10,6 @@
 
 ### What have I done recently?
 
-* 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (part of my Go learning)
-* 🔎 published `v5.1.1` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom) — that project is in a pretty good place
+* 🌡️ published `v0.1.0` of [`ature`](https://github.com/rpearce/ature) (Go learning; convert temperatures CLI tool)
+* 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (Go learning; HTTP status info CLI tool)
+* 🔎 published `v5.1.2` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
