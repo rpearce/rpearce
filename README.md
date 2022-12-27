@@ -6,7 +6,7 @@
 
 ### What am I up to?
 
-* 🌱 learning Go!
+* 🌱 learning Go & Elixir!
 
 ### What have I done recently?
 
