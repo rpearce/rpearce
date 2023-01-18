@@ -10,6 +10,7 @@
 
 ### What have I done recently?
 
+* 🪴 my dotfile garden 🌱 got a rewrite (https://github.com/rpearce/dotfiles)
 * 🌡️ published `v0.1.0` of [`ature`](https://github.com/rpearce/ature) (Go learning; convert temperatures CLI tool)
 * 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (Go learning; HTTP status info CLI tool)
 * 🔎 published `v5.1.2` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
