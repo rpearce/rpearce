@@ -6,7 +6,7 @@
 
 ### What am I up to?
 
-* 💅 working on theming
+* 💅 working on theming my personal site as part of something larger 🤓
 * 🌱 learning Go & Elixir!
 
 ### What have I done recently?
