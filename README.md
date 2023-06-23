@@ -6,14 +6,15 @@
 
 ### What am I up to?
 
-* 💅 working on theming my personal site as part of something larger 🤓
-* 🌱 learning Go & Elixir!
+* 🚧 working on some side hustles (one will be open source 🤓)! 
+* 🌱 learning Rust again!
 
-### What have I done recently?
+### What are the latest things I've done?
 
-* 💅 redesigned my personal website! (https://robertwpearce.com)
-* 📝 blog post: [How to Lose Functional Programming at Work](https://robertwpearce.com/how-to-lose-functional-programming-at-work.html)
+* 💅 redesigned my personal website with some small custom theming! (https://robertwpearce.com)
+* 📝 blog post: [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 * 📝 blog post: [The hakyll-nix-template Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html)
+* 📝 blog post: [How to Lose Functional Programming at Work](https://robertwpearce.com/how-to-lose-functional-programming-at-work.html)
 * 🪴 my dotfile garden 🌱 got a rewrite (https://github.com/rpearce/dotfiles)
 * 🌡️ published `v0.1.0` of [`ature`](https://github.com/rpearce/ature) (Go learning; convert temperatures CLI tool)
 * 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (Go learning; HTTP status info CLI tool)
