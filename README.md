@@ -11,6 +11,7 @@
 
 ### What are the latest things I've done?
 
+* 📝 blog post: [People are so much more than cogs](https://robertwpearce.com/people-are-so-much-more-than-cogs.html)
 * 💅 redesigned my personal website with some small custom theming! (https://robertwpearce.com)
 * 📝 blog post: [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 * 📝 blog post: [The hakyll-nix-template Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html)
