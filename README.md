@@ -11,6 +11,7 @@
 
 ### What are the latest things I've done?
 
+* 🔎 published `v5.1.7` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
 * 📝 blog post: [People are so much more than cogs](https://robertwpearce.com/people-are-so-much-more-than-cogs.html)
 * 💅 redesigned my personal website with some small custom theming! (https://robertwpearce.com)
 * 📝 blog post: [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
@@ -19,4 +20,3 @@
 * 🪴 my dotfile garden 🌱 got a rewrite (https://github.com/rpearce/dotfiles)
 * 🌡️ published `v0.1.0` of [`ature`](https://github.com/rpearce/ature) (Go learning; convert temperatures CLI tool)
 * 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (Go learning; HTTP status info CLI tool)
-* 🔎 published `v5.1.2` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
