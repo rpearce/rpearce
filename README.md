@@ -6,7 +6,7 @@
 
 ### What am I up to?
 
-* 🚧 working on some side hustles (one will be open source 🤓)! 
+* 🚧 working on some side hustles
 * 🌱 learning Rust again!
 
 ### What are the latest things I've done?
