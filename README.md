@@ -7,16 +7,10 @@
 ### What am I up to?
 
 * 🚧 working on some side hustles
-* 🌱 learning Rust again!
+* 🌱 learning some Elixir
 
 ### What are the latest things I've done?
 
-* 🔎 published `v5.1.7` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
-* 📝 blog post: [People are so much more than cogs](https://robertwpearce.com/people-are-so-much-more-than-cogs.html)
-* 💅 redesigned my personal website with some small custom theming! (https://robertwpearce.com)
-* 📝 blog post: [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
-* 📝 blog post: [The hakyll-nix-template Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html)
-* 📝 blog post: [How to Lose Functional Programming at Work](https://robertwpearce.com/how-to-lose-functional-programming-at-work.html)
-* 🪴 my dotfile garden 🌱 got a rewrite (https://github.com/rpearce/dotfiles)
-* 🌡️ published `v0.1.0` of [`ature`](https://github.com/rpearce/ature) (Go learning; convert temperatures CLI tool)
-* 🐿 published `v0.1.0` of [`httpwut`](https://github.com/rpearce/httpwut) (Go learning; HTTP status info CLI tool)
+* 📝 blog post: [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
+* 📝 blog post: [Theming static sites](https://robertwpearce.com/theming-static-sites.html)
+* 🔎 published `v5.1.10` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
