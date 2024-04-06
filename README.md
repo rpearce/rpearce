@@ -11,6 +11,6 @@
 
 ### What are the latest things I've done?
 
+* 🔎 published `v5.2.0` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
 * 📝 blog post: [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 * 📝 blog post: [Theming static sites](https://robertwpearce.com/theming-static-sites.html)
-* 🔎 published `v5.1.10` of [`react-medium-image-zoom`](https://github.com/rpearce/image-zoom)
